@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Nocobuto.github.io/ci",
+  "homepage": "https://Nocobuto.github.io/mar",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
