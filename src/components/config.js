@@ -6,26 +6,26 @@ const config = {
   */
 
   // 🔐 Passcode Page
-  correctPasscode: "2611", // Change this to any 4-digit code (the passcode for access)
-  passcodeTitle: "La contraseña es el pumpe de mimi", // Title displayed on the passcode entry page
+  correctPasscode: "1507", // Change this to any 4-digit code (the passcode for access)
+  passcodeTitle: "La contraseña es el cumple de Pau", // Title displayed on the passcode entry page
   successMessage: "bieen!! :)", // Message shown upon successful passcode entry
   redirectMessage: "Redirecting...", // Message displayed while redirecting after success
   incorrectPasscodeMessage: "contraseña incorrecta: pista: es tu dia y mes!", // Message shown for incorrect passcode
   cancelButtonText: "Cancelar", // Text for the cancel button
 
   // 🔍 Question Page
-  searchPlaceholder: "Hay algo que una psicologa de la poderosisima UAMEX no sepa ?", // Placeholder text in the search input
+  searchPlaceholder: "Hay algo que una colombiana enojona no pueda hacer ?", // Placeholder text in the search input
   trendingTitle: "Busquedas populares", // Title for the trending searches section
   trendingSearches: [
-    "Por que Cinthya es de chiwawa?", // Example trending search query
-    "Es cierto que en chihuahua todos tienen un chiwawa?", // Another example query
-    `Avr di shile, shilaca, osho, shamarra`, // A personalized trending search
+    "Por que Arturo es tan canson?", // Example trending search query
+    "Es cierto que en Colombia todos dicen hola bebe que mas pues?", // Another example query
+    `Como perdonar a un mexicano en tres sencillos pasos!`, // A personalized trending search
   ],
-  proTip: 'Sugerencia: Trata buscando: cuantos años tengo?', // Helpful tip for users
+  proTip: 'Sugerencia: Trata escribiendo exactamente: Cuando conoci a arturo?', // Helpful tip for users
 
   // ⏳ Timer Page
-  anniversaryDate: "2003-11-26", // 📅 Set your anniversary date here (used for the timer)
-  timerTitle: "Muchas felicidadess, ya son 22 añitos y contando", // Title displayed on the timer page
+  anniversaryDate: "2025-12-25", // 📅 Set your anniversary date here (used for the timer)
+  timerTitle: "Mucho o poco tiempo, el reloj seguira pasando, y espero sea a tu lado", // Title displayed on the timer page
   timerMessage: "Y vienen muchos y mejores años mas <3 ", // Message shown alongside the timer
   timeUnits: {
     days: "Dias", // Label for days in the timer
@@ -98,27 +98,27 @@ const config = {
   ],
 
     // 📝 Message Recap Page
-    messageTitle: "CDMX", // Title for the messages recap page
+    messageTitle: "Tiempo juntitos", // Title for the messages recap page
     messageGallery: [
-      { title: "07 Octubre, 2023", description: "Un lindo dia" }, // Message entry
-      { title: "07 Octubre, 2023", description: "Un lindo recuerdo" },
-      { title: "07 Octubre, 2023", description: "Una linda persona ❤️" },
+      { title: "27 Diciembre, 2025", description: "Un lindo dia" }, // Message entry
+      { title: "29 Diciembre, 2025", description: "Un lindo recuerdo" },
+      { title: "01 Enero, 2026", description: "Una linda persona ❤️" },
     ],
   
     // 📸 Picture Recap Page
-    pictureTitle: "Toluquita", // Title for the pictures recap page
+    pictureTitle: "Mi costeñita hermosa", // Title for the pictures recap page
     pictureGallery: [
-      { title: "28 Octubre, 2023", description: "Cuando casi hago que nos cayeramos de la motito " }, // Picture entry
-      { title: "29 Octubre, 2023", description: "El inicio de un lindo dia " },
-      { title: "29 Octubre, 2023", description: "Mi lindo dia en una foto" },
+      { title: "Mira que nena tan hermosaaa", description: "❤️" }, // Picture entry
+      { title: "Mira que juiciosa esa mujer", description: "❤️ " },
+      { title: "Esa sonrisa mas bella de usted", description: "❤️" },
     ],
   
 
   // 💌 Love Letter Page
-  loveLetterMessage: "Ten linda vida hoy y siempre💖", // Message displayed on the love letter page
+  loveLetterMessage: "Siempre me vas a importar, siempre te tendre presente, siempre seras importante 💖", // Message displayed on the love letter page
 
   // 🎇 Closing Page
-  closingMessage: "Doy gracias a dios por tu vida, y por permitirme de alguna manera y en algun momento, ser parte de ella. Feliz cumpleaños Cinthya💖", // Closing message displayed
+  closingMessage: "Doy gracias a dios por tu vida, y por permitirme de alguna manera, ser parte de ella. Te quiero mucho marii 💖", // Closing message displayed
 
   /* 
   ████████████████████████████████████████
@@ -140,8 +140,8 @@ const config = {
 
   // 🔍 Search Queries (Only change if modifying search functionality)
   correctSearchQueries: [
-    "cuantos años tengo?", // Example of a correct search query
-    "cuantos años tengo?", // Another example of a correct search query
+    "Cuando conoci a arturo?", // Example of a correct search query
+    "Cuando conoci a arturo?", // Another example of a correct search query
   ],
 };
 
